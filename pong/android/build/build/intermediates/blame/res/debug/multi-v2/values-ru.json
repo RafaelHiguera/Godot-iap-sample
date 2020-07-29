@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "/Users/rafahs/.gradle/caches/transforms-2/files-2.1/b30478de32c2dad445402be637cee8d7/godot-lib.debug/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                },
+                {
+                    "source": "/Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "131",
+                        "endColumns": "100",
+                        "endOffsets": "227"
+                    }
+                }
+            ]
+        }
+    ]
+}

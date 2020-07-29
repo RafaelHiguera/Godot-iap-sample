@@ -1,0 +1,6 @@
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/bin/Debug/Pong with C#.dll
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/bin/Debug/Pong with C#.pdb
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/obj/Debug/Pong with C#.csprojAssemblyReference.cache
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/obj/Debug/Pong with C#.csproj.CoreCompileInputs.cache
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/obj/Debug/Pong with C#.dll
+/Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/.mono/temp/obj/Debug/Pong with C#.pdb

@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+MERGED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:2:1-17:12
+MERGED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1f2ac1c1bd5322e53506aff0e649be18/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dc4b5e658de539ffe37f58686a123b1a/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/669ee639bd2d32b5565851bafa4ad272/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dab87294293fded440eb66f5c7789753/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/baa6843f5735682f3aa28f7b5d9f60a3/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/8c4d5b031bf0c99eae491fb16fcba535/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b55813e700ea7644d236779639e70aae/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/fd4ebabfa2f4fb017b8fff1e1856eb33/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/15678c7204fc64564414f9f26b39db58/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/0558857762111a14548b16088caf1da1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/ed5fa50885b2f2b42da28a148833683e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/90037f0e3626b7596ae27349967c4150/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/295d621b89834e38a70ccdde5be3d3b8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/c387a6fdcd03a31fe7d51d7861ae7d72/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b6e15095ae538325e971ab0cc88cd7e8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f3dd4784795ae5aa81b20a79fe1c7a2f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/7b9d8ea91970468fc69f48cb074b7a0b/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f75151893ef31ad1d1c9307d2381f049/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/efdd53d12eeaca4220928df01a3ba85b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/a08ab6a77fc9e47c16f9dfbf49ac82f9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/28ba24b16050c2c146f2a52f66dd02a1/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f36086e73a2f5b02cb1974e2034855a1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/9e52d087dc155989eafbd0192a5cacef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f748b058ddfe98d48d1843d5a8f744d8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:7:5-35
+supports-screens
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:12:5-16:40
+	android:largeScreens
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:16:9-37
+uses-feature#0x00020000
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:21:9-32
+application
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:30:5-68:19
+MERGED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:11:5-15:19
+MERGED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:11:5-15:19
+MERGED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:18:5-20:19
+MERGED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:12:5-21:19
+MERGED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/7b9d8ea91970468fc69f48cb074b7a0b/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/7b9d8ea91970468fc69f48cb074b7a0b/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:18:18-61
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:30:18-67
+	tools:ignore
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:30:96-135
+	android:icon
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:30:136-163
+	android:allowBackup
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:30:68-95
+meta-data#xr_mode_metadata_name
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:36:9-38:54
+	android:value
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:38:13-51
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:37:13-49
+meta-data#plugins
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:41:9-43:44
+	android:value
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:43:13-42
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:42:13-35
+activity#com.godot.game.GodotApp
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:45:9-62:20
+	android:screenOrientation
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:47:13-62
+	android:launchMode
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:49:13-44
+	android:resizeableActivity
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:52:13-47
+	tools:ignore
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:53:13-43
+	android:configChanges
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:51:13-141
+	android:theme
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:48:13-77
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:46:13-37
+meta-data#com.oculus.vr.focusaware
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:56:13-107
+	android:value
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:56:64-104
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:56:24-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:58:13-61:29
+action#android.intent.action.MAIN
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml:60:27-74
+uses-sdk
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+MERGED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:7:5-9:41
+MERGED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:7:5-9:41
+MERGED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:7:5-9:41
+MERGED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1f2ac1c1bd5322e53506aff0e649be18/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1f2ac1c1bd5322e53506aff0e649be18/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dc4b5e658de539ffe37f58686a123b1a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dc4b5e658de539ffe37f58686a123b1a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/669ee639bd2d32b5565851bafa4ad272/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/669ee639bd2d32b5565851bafa4ad272/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dab87294293fded440eb66f5c7789753/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/dab87294293fded440eb66f5c7789753/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/baa6843f5735682f3aa28f7b5d9f60a3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/baa6843f5735682f3aa28f7b5d9f60a3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/8c4d5b031bf0c99eae491fb16fcba535/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/8c4d5b031bf0c99eae491fb16fcba535/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b55813e700ea7644d236779639e70aae/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b55813e700ea7644d236779639e70aae/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/fd4ebabfa2f4fb017b8fff1e1856eb33/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/fd4ebabfa2f4fb017b8fff1e1856eb33/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/15678c7204fc64564414f9f26b39db58/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/15678c7204fc64564414f9f26b39db58/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/0558857762111a14548b16088caf1da1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/0558857762111a14548b16088caf1da1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/ed5fa50885b2f2b42da28a148833683e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/ed5fa50885b2f2b42da28a148833683e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/90037f0e3626b7596ae27349967c4150/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/90037f0e3626b7596ae27349967c4150/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/295d621b89834e38a70ccdde5be3d3b8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/295d621b89834e38a70ccdde5be3d3b8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/1e66abf13e0b808fad6d83e710cca1c0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/c387a6fdcd03a31fe7d51d7861ae7d72/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/c387a6fdcd03a31fe7d51d7861ae7d72/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b6e15095ae538325e971ab0cc88cd7e8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/b6e15095ae538325e971ab0cc88cd7e8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f3dd4784795ae5aa81b20a79fe1c7a2f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f3dd4784795ae5aa81b20a79fe1c7a2f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/7b9d8ea91970468fc69f48cb074b7a0b/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/7b9d8ea91970468fc69f48cb074b7a0b/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f75151893ef31ad1d1c9307d2381f049/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f75151893ef31ad1d1c9307d2381f049/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/efdd53d12eeaca4220928df01a3ba85b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/efdd53d12eeaca4220928df01a3ba85b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/a08ab6a77fc9e47c16f9dfbf49ac82f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/a08ab6a77fc9e47c16f9dfbf49ac82f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/28ba24b16050c2c146f2a52f66dd02a1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/28ba24b16050c2c146f2a52f66dd02a1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f36086e73a2f5b02cb1974e2034855a1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f36086e73a2f5b02cb1974e2034855a1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/9e52d087dc155989eafbd0192a5cacef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/9e52d087dc155989eafbd0192a5cacef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f748b058ddfe98d48d1843d5a8f744d8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/f748b058ddfe98d48d1843d5a8f744d8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		ADDED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+		INJECTED from /Users/rafahs/Desktop/Code/Godot/godot-demo-projects/mono/pong/android/build/AndroidManifest.xml
+meta-data#org.godotengine.plugin.v1.GodotGooglePlayBilling
+ADDED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:12:9-14:101
+	android:value
+		ADDED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:14:13-98
+	android:name
+		ADDED from [GodotGooglePlayBilling.1.0.0.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2f06a2e8a5dbad87a6340476aa9fd307/GodotGooglePlayBilling.1.0.0.release/AndroidManifest.xml:13:13-76
+instrumentation
+ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:11:5-15:57
+	android:label
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:14:9-58
+	android:icon
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:13:9-36
+	android:targetPackage
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:15:9-54
+	android:name
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:12:9-45
+service#org.godotengine.godot.GodotDownloaderService
+ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:19:9-80
+	android:name
+		ADDED from [godot-lib.release.aar] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/2ad285d392f16e975ed8260719847ce6/godot-lib.release/AndroidManifest.xml:19:18-77
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/rafahs/.gradle/caches/transforms-2/files-2.1/95c6489f94f3f93d689e52bec2d60a78/billing-3.0.0/AndroidManifest.xml:18:13-78
