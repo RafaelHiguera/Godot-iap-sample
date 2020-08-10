@@ -34,6 +34,13 @@ public class Paddle : Area2D
 		{
 			// Assign new direction
 			ball.direction = new Vector2(_ballDir, ((float)new Random().NextDouble()) * 2 - 1).Normalized();
+			//update number of coins
+			updateCoins();
 		}
+	}
+	
+	private void updateCoins(){
+		CoinsManager.numberOfCoins++;
+		GetParent().GetNode<RichTextLabel>("PointsCounter").SetText(CoinsManager.numberOfCoins.ToString());
 	}
 }

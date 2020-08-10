@@ -53,12 +53,14 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logic\CoinsManager.cs" />
+    <Compile Include="Images\Coins.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Logic\Ball.cs" />
     <Compile Include="Logic\CeilingFloor.cs" />
     <Compile Include="Logic\Paddle.cs" />
     <Compile Include="Logic\Wall.cs" />
-    <Compile Include="StoreButton.cs" />
+    <Compile Include="Logic\StoreButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies">

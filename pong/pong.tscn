@@ -1,19 +1,18 @@
-[gd_scene load_steps=22 format=2]
+[gd_scene load_steps=21 format=2]
 
 [ext_resource path="res://Logic/Paddle.cs" type="Script" id=1]
-[ext_resource path="res://left_pallete.png" type="Texture" id=2]
-[ext_resource path="res://right_pallete.png" type="Texture" id=3]
+[ext_resource path="res://Images/right_pallete.png" type="Texture" id=3]
 [ext_resource path="res://Logic/Ball.cs" type="Script" id=4]
-[ext_resource path="res://ball.png" type="Texture" id=5]
-[ext_resource path="res://separator.png" type="Texture" id=6]
+[ext_resource path="res://Images/ball.png" type="Texture" id=5]
+[ext_resource path="res://Images/separator.png" type="Texture" id=6]
 [ext_resource path="res://Logic/Wall.cs" type="Script" id=7]
 [ext_resource path="res://Logic/CeilingFloor.cs" type="Script" id=8]
-[ext_resource path="res://up.png" type="Texture" id=9]
-[ext_resource path="res://down.png" type="Texture" id=10]
-[ext_resource path="res://c.png" type="Texture" id=11]
+[ext_resource path="res://Images/up.png" type="Texture" id=9]
+[ext_resource path="res://Images/down.png" type="Texture" id=10]
+[ext_resource path="res://Images/c.png" type="Texture" id=11]
 [ext_resource path="res://font.ttf" type="DynamicFontData" id=12]
-[ext_resource path="res://storeButton.png" type="Texture" id=13]
-[ext_resource path="res://StoreButton.cs" type="Script" id=14]
+[ext_resource path="res://Images/storeButton.png" type="Texture" id=13]
+[ext_resource path="res://Logic/StoreButton.cs" type="Script" id=14]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 4, 16 )
@@ -30,10 +29,10 @@ extents = Vector2( 320, 10 )
 [sub_resource type="DynamicFont" id=5]
 font_data = ExtResource( 12 )
 
-[sub_resource type="DynamicFont" id=7]
+[sub_resource type="DynamicFont" id=6]
 font_data = ExtResource( 12 )
 
-[sub_resource type="DynamicFont" id=8]
+[sub_resource type="DynamicFont" id=7]
 font_data = ExtResource( 12 )
 
 [node name="Pong" type="Node2D"]
@@ -45,16 +44,6 @@ color = Color( 0.168627, 0.513726, 0.254902, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
-
-[node name="Left" type="Area2D" parent="."]
-position = Vector2( -100, -100 )
-script = ExtResource( 1 )
-
-[node name="Sprite" type="Sprite" parent="Left"]
-texture = ExtResource( 2 )
-
-[node name="Collision" type="CollisionShape2D" parent="Left"]
-shape = SubResource( 1 )
 
 [node name="Right" type="Area2D" parent="."]
 position = Vector2( 563.815, 188.919 )
@@ -82,13 +71,6 @@ texture = ExtResource( 6 )
 
 [node name="Node2D" type="Node2D" parent="."]
 
-[node name="LeftWall" type="Area2D" parent="."]
-position = Vector2( -10, 200 )
-script = ExtResource( 8 )
-
-[node name="Collision" type="CollisionShape2D" parent="LeftWall"]
-shape = SubResource( 3 )
-
 [node name="RightWall" type="Area2D" parent="."]
 position = Vector2( 650, 200 )
 script = ExtResource( 7 )
@@ -102,6 +84,15 @@ position = Vector2( 320, -10 )
 script = ExtResource( 8 )
 
 [node name="Collision" type="CollisionShape2D" parent="Ceiling"]
+shape = SubResource( 4 )
+
+[node name="LeftWall" type="Area2D" parent="."]
+position = Vector2( 0, 200 )
+rotation = 1.5708
+script = ExtResource( 8 )
+
+[node name="Collision" type="CollisionShape2D" parent="LeftWall"]
+position = Vector2( 3, 9 )
 shape = SubResource( 4 )
 
 [node name="Floor" type="Area2D" parent="."]
@@ -156,11 +147,11 @@ __meta__ = {
 }
 
 [node name="Label" type="Label" parent="StoreButton"]
-margin_left = 33.0
+margin_left = 29.0
 margin_top = 17.0
-margin_right = 94.0
+margin_right = 90.0
 margin_bottom = 45.0
-custom_fonts/font = SubResource( 7 )
+custom_fonts/font = SubResource( 6 )
 text = "Store"
 __meta__ = {
 "_edit_use_anchors_": false
@@ -181,12 +172,11 @@ margin_left = 14.0
 margin_top = 17.0
 margin_right = 95.0
 margin_bottom = 32.0
-custom_fonts/font = SubResource( 8 )
+custom_fonts/font = SubResource( 7 )
 text = "Inventory"
-[connection signal="area_entered" from="Left" to="Left" method="OnAreaEntered"]
 [connection signal="area_entered" from="Right" to="Right" method="OnAreaEntered"]
-[connection signal="area_entered" from="LeftWall" to="Left" method="OnAreaEntered"]
 [connection signal="area_entered" from="RightWall" to="RightWall" method="OnWallAreaEntered"]
 [connection signal="area_entered" from="Ceiling" to="Ceiling" method="OnAreaEntered"]
+[connection signal="area_entered" from="LeftWall" to="LeftWall" method="OnAreaEnteredLeftWall"]
 [connection signal="area_entered" from="Floor" to="Floor" method="OnAreaEntered"]
 [connection signal="pressed" from="StoreButton" to="StoreButton" method="_on_StoreButton_pressed"]
