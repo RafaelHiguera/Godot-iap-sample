@@ -1,6 +1,7 @@
 [gd_scene load_steps=21 format=2]
 
 [ext_resource path="res://Logic/Paddle.cs" type="Script" id=1]
+[ext_resource path="res://Logic/MainGame.cs" type="Script" id=2]
 [ext_resource path="res://Images/right_pallete.png" type="Texture" id=3]
 [ext_resource path="res://Logic/Ball.cs" type="Script" id=4]
 [ext_resource path="res://Images/ball.png" type="Texture" id=5]
@@ -12,7 +13,6 @@
 [ext_resource path="res://Images/c.png" type="Texture" id=11]
 [ext_resource path="res://font.ttf" type="DynamicFontData" id=12]
 [ext_resource path="res://Images/storeButton.png" type="Texture" id=13]
-[ext_resource path="res://Logic/StoreButton.cs" type="Script" id=14]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 4, 16 )
@@ -36,6 +36,7 @@ font_data = ExtResource( 12 )
 font_data = ExtResource( 12 )
 
 [node name="Pong" type="Node2D"]
+script = ExtResource( 2 )
 
 [node name="Background" type="ColorRect" parent="."]
 margin_right = 638.0
@@ -119,12 +120,12 @@ normal = ExtResource( 10 )
 pressed = ExtResource( 10 )
 action = "right_move_down"
 
-[node name="Points" type="Sprite" parent="."]
+[node name="Coins" type="Sprite" parent="."]
 position = Vector2( 592.5, 19 )
 scale = Vector2( 0.0870968, 0.0778443 )
 texture = ExtResource( 11 )
 
-[node name="PointsCounter" type="RichTextLabel" parent="."]
+[node name="CoinsCounter" type="RichTextLabel" parent="."]
 margin_left = 610.0
 margin_top = 10.0
 margin_right = 641.0
@@ -141,7 +142,6 @@ margin_top = 10.0
 margin_right = 773.0
 margin_bottom = 65.0
 texture_normal = ExtResource( 13 )
-script = ExtResource( 14 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -179,4 +179,4 @@ text = "Inventory"
 [connection signal="area_entered" from="Ceiling" to="Ceiling" method="OnAreaEntered"]
 [connection signal="area_entered" from="LeftWall" to="LeftWall" method="OnAreaEnteredLeftWall"]
 [connection signal="area_entered" from="Floor" to="Floor" method="OnAreaEntered"]
-[connection signal="pressed" from="StoreButton" to="StoreButton" method="_on_StoreButton_pressed"]
+[connection signal="pressed" from="StoreButton" to="." method="_on_StoreButton_pressed"]

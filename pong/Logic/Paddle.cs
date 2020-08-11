@@ -41,6 +41,6 @@ public class Paddle : Area2D
 	
 	private void updateCoins(){
 		CoinsManager.numberOfCoins++;
-		GetParent().GetNode<RichTextLabel>("PointsCounter").SetText(CoinsManager.numberOfCoins.ToString());
+		GetParent().GetNode<RichTextLabel>("CoinsCounter").SetText(CoinsManager.numberOfCoins.ToString());
 	}
 }
